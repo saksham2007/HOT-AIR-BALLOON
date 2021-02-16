@@ -2,7 +2,7 @@ var balloon,db,position;
 
 function preload(){
     backgroundImg = loadImage("images/bg.png");
-    balloon_moving = loadAnimation("balloon1.png","balloon2.png","balloon3.png");
+    balloon_moving = loadAnimation("images/balloon1.png","images/balloon2.png","images/balloon3.png");
  }
  
 function setup(){
